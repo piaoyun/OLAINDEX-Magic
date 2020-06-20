@@ -79,8 +79,22 @@
     <footer id="footer">
         <div class="row text-center">
             <div class="col-lg-12">
-                <p class="text-muted">
-                    {!! \App\Utils\Tool::markdown2Html(setting('copyright','Designed by [IMWNK](https://imwnk.cn/) | Moded by [Yukino](https://yukino.co/) | Powered by [OLAINDEX-MOD](https://github.com/YukiCoco/OLAINDEX-MOD)'),true) !!}.
+                <p class="text-muted"> 
+                    本站资源仅为学习参考，不可用于商业目的，否则后果自负！版权归原作者所有，请在下载后于24小时内删除！<script type="text/javascript" src="https://js.users.51.la/20204597.js"></script>  <br />
+                    <a href="http://piaoyun.cc/?online" title="飘云PiaoYun.CC" target="_blank">飘云</a>(<a href="http://piaoyun.cc/?online" title="飘云PiaoYun.CC" target="_blank">PiaoYun.CC</a>) OneDrive 网盘共享下载 <a href="http://piaoyun.cc/?online" title="飘云PiaoYun.CC" target="_blank">PiaoYun.CC</a> | Powered by <a href="https://github.com/WangNingkai/OLAINDEX" target="_blank" rel="nofollow">olaindex</a> | 
+Modfied by <a href="https://yukino.co/" target="_blank" rel="nofollow">Yukino</a> | Powered by <a href="https://github.com/YukiCoco/OLAINDEX-Magic" target="_blank" rel="nofollow">OLAINDEX-Magic</a>
+<script>
+var _hmt = _hmt || [];
+(function() {
+  var hm = document.createElement("script");
+  hm.src = "https://hm.baidu.com/hm.js?ee388297fd19c6ef370d8dc3bdcebb59";
+  var s = document.getElementsByTagName("script")[0]; 
+  s.parentNode.insertBefore(hm, s);
+})();
+</script>
+
+                  <br />
+                  <script type="text/javascript" src="//quote.51.la/q?id=20204597&mb=1"></script>
                 </p>
             </div>
         </div>
